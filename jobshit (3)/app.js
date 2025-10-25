@@ -1,5 +1,4 @@
 // JobSheet 3 – HTTP Request and API
-// Bagian A Sub C – Mengirim Parameter ke Weatherstack API
 // Nama : Ramzy Junfaris
 // NIM  : 23343015
 // Asal : Binjai, Sumatera Utara
