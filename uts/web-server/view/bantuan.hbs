@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+  {{> head }}
+<body>
+  <div class="main-content">
+    {{> header }}
+    <section class="faq-section">
+      <h1 class="faq-title">Pertanyaan Umum (FAQ)</h1>
+      <p class="faq-subtitle">Beberapa pertanyaan berikut dapat membantu kamu memahami cara kerja aplikasi ini.</p>
+
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3 class="faq-question">Untuk apa halaman ini dibuat?</h3>
+          <div class="faq-answer">
+            <p>Halaman ini berfungsi sebagai <strong>panduan bantuan</strong> bagi pengguna agar lebih memahami cara penggunaan aplikasi.
+            Website ini menampilkan informasi cuaca terkini sesuai lokasi yang dicari oleh pengguna.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <h3 class="faq-question">Apa pengertian dari API?</h3>
+          <div class="faq-answer">
+            <p><strong>API (Application Programming Interface)</strong> merupakan jembatan penghubung antara dua sistem berbeda agar dapat
+            saling bertukar data. Melalui API, aplikasi ini mampu mengakses data cuaca dari server eksternal tanpa harus menyimpannya
+            secara lokal di sistem.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <h3 class="faq-question">API apa saja yang digunakan di aplikasi ini?</h3>
+          <div class="faq-answer">
+            <p>Aplikasi ini memanfaatkan dua jenis API utama, yaitu:</p>
+            <ul>
+              <li><strong>OpenStreetMap Nominatim API</strong> — digunakan untuk memperoleh koordinat dari nama lokasi (geocoding).</li>
+              <li><strong>Weatherstack API</strong> — digunakan untuk menampilkan informasi cuaca real-time berdasarkan hasil koordinat tersebut.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <h3 class="faq-question">Apa itu konsep RESTful dalam API?</h3>
+          <div class="faq-answer">
+            <p>Aplikasi ini menerapkan konsep <strong>RESTful API</strong>, yaitu pola komunikasi antara client dan server melalui permintaan
+            HTTP seperti <em>GET</em> dan <em>POST</em>, dengan data yang dikirim dalam format JSON. Arsitektur RESTful digunakan karena
+            efisien, cepat, dan mudah diintegrasikan dengan aplikasi web modern.</p>
+            <img src="/img/restful.png" alt="Diagram RESTful API" class="faq-image">
+            <p style="text-align: center;">Gambar di atas menunjukkan alur komunikasi RESTful API antara client, server, dan database.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  {{> footer }}
+  <script src="/js/accordion.js"></script>
+</body>
+</html>
