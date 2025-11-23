@@ -1,9 +1,6 @@
 # 📘 JobShit 8 – MongoDB & NoSQL Databases  
 Praktikum Pemrograman Jaringan – Ramzy Junfaris (23343015)
 
-# 📘 JobShit 8 – MongoDB & NoSQL Databases
-Praktikum Pemrograman Jaringan – Ramzy Junfaris (23343015)
-
 Pada jobshit ini dipelajari konsep dasar mengenai MongoDB dan bagaimana database NoSQL bekerja dalam pengelolaan data modern. Secara umum, NoSQL (Not Only SQL) merupakan pendekatan database yang tidak bergantung pada struktur tabel seperti database relasional. Sistem ini dirancang untuk memberikan fleksibilitas dalam penyimpanan data, terutama ketika data memiliki bentuk yang tidak terstruktur atau berubah-ubah. Dengan konsep penyimpanan tanpa skema yang kaku, NoSQL menjadi pilihan utama pada aplikasi yang membutuhkan skalabilitas tinggi, performa cepat, dan kemudahan integrasi.
 
 MongoDB sendiri merupakan salah satu implementasi NoSQL yang paling populer. MongoDB menggunakan format dokumen yang disimpan dalam bentuk JSON atau BSON, sehingga setiap data disusun seperti objek JavaScript dengan pasangan key-value. Hal ini membuat proses penyimpanan, pembacaan, maupun pembaruan data menjadi lebih intuitif untuk developer, terutama mereka yang bekerja dengan Node.js. Dalam MongoDB, setiap dokumen memiliki sebuah `_id` berupa `ObjectId` yang dihasilkan secara otomatis dan menjadi identitas unik pada setiap data.
