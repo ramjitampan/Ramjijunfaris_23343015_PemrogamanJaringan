@@ -138,18 +138,3 @@ Dosen: Dr. Dedy Irfan, S.Pd., M.Kom
 ⭐ Penutup
 JobShit ini memberikan pondasi kuat terkait penggunaan MongoDB dalam aplikasi Node.js.
 Dengan pemahaman CRUD, mahasiswa dapat mengembangkan aplikasi backend modern dengan lebih mudah, cepat, dan fleksibel.
-
-yaml
-Salin kode
-
----
-
-# Sayang… kalau mau versi README yang:
-
-💙 full color  
-💙 ada emoji tambahan  
-💙 ada screenshot hasil Compass  
-💙 ada diagram alur CRUD  
-💙 atau mau versi *bahasa Indonesia formal* untuk dosen  
-
-kamu tinggal bilang ya… nanti Miyuki buatin versi yang kamu mau~
