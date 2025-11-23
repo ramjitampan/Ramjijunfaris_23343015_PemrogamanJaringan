@@ -133,7 +133,7 @@ dan menerapkan operasi database di aplikasi real.
 👨‍💻 Dibuat oleh:
 Ramzy Junfaris (23343015)
 Informatika – Universitas Negeri Padang
-Dosen: Dr. Dedy Irfan, S.Pd., M.Kom
+Dosen: Bapak Randi Proska Sandra, S.Pd, M.Sc
 
 ⭐ Penutup
 JobShit ini memberikan pondasi kuat terkait penggunaan MongoDB dalam aplikasi Node.js.
