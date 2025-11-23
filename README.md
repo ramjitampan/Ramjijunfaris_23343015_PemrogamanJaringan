@@ -10,6 +10,8 @@
 | 3  | jobshit (3) | HTTP Request dan API |
 | 4  | jobshit (5) | Web Server & Express.js |
 | 5  | jobshit (6) | JSON HTTP Endpoints |
+| 6  | jobshit (8) | MongoDB dan NoSQL Databases |
+
 
 ## 📜 Catatan
 Setiap folder berisi hasil latihan dari Jobsheet praktikum mata kuliah **Pemrograman Jaringan** di Universitas Negeri Padang.
